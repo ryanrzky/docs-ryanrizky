@@ -1,3 +1,6 @@
 baseURL = 'https://docs.ryanrizky.com/'
 languageCode = 'en-us'
 title = 'Docs Ryan Rizky'
+
+[params]
+    BookTheme = "dark"
