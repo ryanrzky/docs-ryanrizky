@@ -1,6 +1,6 @@
 ---
 title: "How to Release a Service"
-date: 2014-03-10
+date: 2024-06-23github
 weight: 10
 draft: false
 ---
