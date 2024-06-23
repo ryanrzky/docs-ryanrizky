@@ -3,6 +3,8 @@ title: Introduction
 type: docs
 ---
 
-# Selamat datang
+# Hello 👋
 
-Selamat datang di personal docs saya.
+Welcome to Ryan Rizky's personal docs.
+
+![Funny Cat](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
