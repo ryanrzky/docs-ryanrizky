@@ -4,7 +4,7 @@ The purpose of this site is to write and share thing I learn. Not everything I l
 
 ## Basic usage hugo
 - New site `hugo new site <name>`
-- Run site `hugo server`
+- Run site `hugo server --minify --theme hugo-book`
 
 ### Blog
 Inside `content/posts`
