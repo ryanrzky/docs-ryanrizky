@@ -5,4 +5,4 @@ type: docs
 
 # Selamat datang
 
-Selamat datang di personal docs.
+Selamat datang di personal docs saya.
